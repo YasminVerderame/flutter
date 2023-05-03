@@ -3,24 +3,24 @@ import 'package:github/models/repository.dart';
 
 final kRepositoriesMock = [
   Repository(
-    id: 188897530,
-    name: "fiap",
+    id: 31792824,
+    name: "flutter",
     owner: Owner(
-      login: "josecastillolema",
-      avatar: "https://avatars.githubusercontent.com/u/7546521?v=4",
+      login: "yasminverderame",
+      avatar: "https://avatars.githubusercontent.com/u/14101776?v=4",
     ),
-    htmlUrl: "https://github.com/josecastillolema/fiap",
+    htmlUrl: "https://github.com/YasminVerderame/flutter",
     description: "Aplicações para os cursos de pós-graduação da FIAP",
-    url: "https://api.github.com/repos/josecastillolema/fiap",
+    url: "https://api.github.com/users/flutter",
   ),
   Repository(
-    id: 195543045,
-    name: "desafio-2-2019",
+    id: 14101776,
+    name: "flutter",
     owner: Owner(
-      login: "maratonadev",
-      avatar: "https://avatars.githubusercontent.com/u/49682537?v=4",
+      login: "flutter",
+      avatar: "https://api.github.com/users/flutter",
     ),
-    htmlUrl: "https://github.com/maratonadev/desafio-2-2019",
+    htmlUrl: "https://github.com/flutter",
     description: "Desafio 2 ~ FIAP",
     url: "https://api.github.com/repos/maratonadev/desafio-2-2019",
   ),
